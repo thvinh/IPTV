@@ -1,0 +1,8 @@
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml,http://trada.info/epg.xml" tvg-shift=0 cache=500 deinterlace=1 m3uautoload=1 aspect-ratio=16:9
+#EXTM3U IPTV.m3u 2025.05.12
+
+#Tổng Hợp--
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="Tổng Hợp" tvg-logo="https://imgur.com/mDQssNg.jpg",THVL1 HD
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="Tổng Hợp" tvg-logo="https://imgur.com/hrsgjNu.jpg",THVL2 HD
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="Tổng Hợp" tvg-logo="https://imgur.com/w7nxAjc.jpg",THVL3 HD
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="Tổng Hợp" tvg-logo="https://imgur.com/A0i0AdN.png",THVL4 HD
